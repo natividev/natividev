@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript Moderno Guía Definitiva Construye +20 Proyectos,Node: De cero a experto**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [www.trabajandoenmiportadolio.com](www.trabajandoenmiportadolio.com)
+- 👨‍💻 Todos mis proyectos están disponibles en https://github.com/natividev/
 
 - 📫 Cómo ponerse en contacto conmigo **josenatividadcv@gmail.com**
 
