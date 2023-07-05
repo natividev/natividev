@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Soy Natividad Chávez</h1>
+<h1 align="center">Hola soy Natividad Chávez 👋</h1>
 <h3 align="center">Un apasionado desarrollador backend de El Salvador</h3>
 
 
